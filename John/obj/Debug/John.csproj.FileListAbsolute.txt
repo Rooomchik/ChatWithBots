@@ -1,0 +1,12 @@
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\ChatBot\bin\Debug\Valerka.dll
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\ChatBot\bin\Debug\Valerka.pdb
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\Valerka\obj\Debug\Valerka.dll
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\Valerka\obj\Debug\Valerka.pdb
+C:\Users\RomanHU\Desktop\Chatt\John\obj\Debug\John.dll
+C:\Users\RomanHU\Desktop\Chatt\John\obj\Debug\John.pdb
+C:\Users\RomanHU\Desktop\Chatt\John\obj\Debug\John.csprojResolveAssemblyReference.cache
+C:\Users\RomanHU\Chat\bin\debug\John.dll
+C:\Users\RomanHU\Chat\bin\debug\John.pdb
+C:\Users\RomanHU\Desktop\Chat\John\obj\Debug\John.dll
+C:\Users\RomanHU\Desktop\Chat\John\obj\Debug\John.pdb
+C:\Users\RomanHU\Desktop\Chat\John\obj\Debug\John.csprojResolveAssemblyReference.cache

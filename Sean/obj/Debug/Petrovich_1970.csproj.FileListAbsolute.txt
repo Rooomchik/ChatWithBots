@@ -1,0 +1,9 @@
+D:\DVCourses\ChatBot\ChatBot\ChatBot\bin\Debug\Petrovich_1970.dll
+D:\DVCourses\ChatBot\ChatBot\ChatBot\bin\Debug\Petrovich_1970.pdb
+D:\DVCourses\ChatBot\ChatBot\Petrovich_1970\obj\Debug\Petrovich_1970.csprojResolveAssemblyReference.cache
+D:\DVCourses\ChatBot\ChatBot\Petrovich_1970\obj\Debug\Petrovich_1970.dll
+D:\DVCourses\ChatBot\ChatBot\Petrovich_1970\obj\Debug\Petrovich_1970.pdb
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\Petrovich_1970\obj\Debug\Petrovich_1970.dll
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\Petrovich_1970\obj\Debug\Petrovich_1970.pdb
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\ChatBot\bin\Debug\Petrovich_1970.dll
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\ChatBot\bin\Debug\Petrovich_1970.pdb

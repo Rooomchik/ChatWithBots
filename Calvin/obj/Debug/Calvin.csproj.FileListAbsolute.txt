@@ -1,0 +1,8 @@
+C:\Users\RomanHU\Desktop\Chatt\Calvin\obj\Debug\Calvin.dll
+C:\Users\RomanHU\Desktop\Chatt\Calvin\obj\Debug\Calvin.pdb
+C:\Users\RomanHU\Desktop\Chatt\Calvin\obj\Debug\Calvin.csprojResolveAssemblyReference.cache
+C:\Users\RomanHU\Chat\bin\debug\Calvin.dll
+C:\Users\RomanHU\Chat\bin\debug\Calvin.pdb
+C:\Users\RomanHU\Desktop\Chat\Calvin\obj\Debug\Calvin.dll
+C:\Users\RomanHU\Desktop\Chat\Calvin\obj\Debug\Calvin.pdb
+C:\Users\RomanHU\Desktop\Chat\Calvin\obj\Debug\Calvin.csprojResolveAssemblyReference.cache

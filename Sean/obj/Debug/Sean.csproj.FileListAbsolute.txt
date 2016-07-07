@@ -1,0 +1,12 @@
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\ChatBot\bin\Debug\Petrovich_1970.dll
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\ChatBot\bin\Debug\Petrovich_1970.pdb
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\Petrovich_1970\obj\Debug\Petrovich_1970.dll
+C:\Users\RomanHU\Desktop\ChatBot-master\ChatBot\Petrovich_1970\obj\Debug\Petrovich_1970.pdb
+C:\Users\RomanHU\Desktop\Chatt\Sean\obj\Debug\Sean.dll
+C:\Users\RomanHU\Desktop\Chatt\Sean\obj\Debug\Sean.pdb
+C:\Users\RomanHU\Desktop\Chatt\Sean\obj\Debug\Sean.csprojResolveAssemblyReference.cache
+C:\Users\RomanHU\Chat\bin\debug\Sean.dll
+C:\Users\RomanHU\Chat\bin\debug\Sean.pdb
+C:\Users\RomanHU\Desktop\Chat\Sean\obj\Debug\Sean.dll
+C:\Users\RomanHU\Desktop\Chat\Sean\obj\Debug\Sean.pdb
+C:\Users\RomanHU\Desktop\Chat\Sean\obj\Debug\Sean.csprojResolveAssemblyReference.cache
